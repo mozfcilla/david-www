@@ -7,7 +7,7 @@ import { match } from 'react-router'
 import { createStore, applyMiddleware } from 'redux'
 import thunkMiddleware from 'redux-thunk'
 import Boom from 'boom'
-import pkg from '../package.json'
+import pkg from 'package.json'
 import reducers from './ui/reducers'
 import { layoutTpl, bodyTpl } from './ui/server.jsx'
 

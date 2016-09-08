@@ -2,7 +2,7 @@
   "name": "david-www",
   "version": "19.0.1",
   "description": "Watching your Node.js dependencies.",
-  "main": "index.js",
+  "main": "main.js",
   "homepage": "https://github.com/alanshaw/david-www",
   "repository": {
     "type": "git",
